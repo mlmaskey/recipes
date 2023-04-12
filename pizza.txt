@@ -6,6 +6,7 @@ tomato sauce
 mozarella cheeese 
 mushrooms
 pineapple
+hot honey
 
 ** Peocedure **
 
@@ -17,3 +18,5 @@ pineapple
 5. Add a layer of sauce
 6. Add a lot of cheese
 7. Add some pineapple and mushrooms on top
+8. Put the pizza in the oven
+9. Cook for 20 min
