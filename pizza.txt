@@ -5,6 +5,7 @@ yeast
 tomato sauce
 mozarella cheeese 
 mushrooms
+pineapple
 
 ** Peocedure **
 
@@ -15,4 +16,4 @@ mushrooms
 4. Spread the dough in a pizza pan.
 5. Add a layer of sauce
 6. Add a lot of cheese
-
+7. Add some pineapple and mushrooms on top
