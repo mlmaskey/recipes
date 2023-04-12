@@ -7,7 +7,7 @@ mozarella cheeese
 mushrooms
 pineapple
 
-** Peocedure **
+** Procedure **
 
 0. Set oven to 400
 1. Mix flour, yest, with water
@@ -17,3 +17,5 @@ pineapple
 5. Add a layer of sauce
 6. Add a lot of cheese
 7. Add some pineapple and mushrooms on top
+8. Bake at 355 for 20 minutes
+
