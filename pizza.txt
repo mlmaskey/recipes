@@ -8,7 +8,7 @@ mushrooms
 pineapple
 hot honey
 
-** Peocedure **
+** Procedure **
 
 0. Set oven to 400
 1. Mix flour, yest, with water
@@ -19,4 +19,5 @@ hot honey
 6. Add a lot of cheese
 7. Add some pineapple and mushrooms on top
 8. Put the pizza in the oven
-9. Cook for 20 min
+9. Bake at 355 for 20 minutes
+
